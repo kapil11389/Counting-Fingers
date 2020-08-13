@@ -50,3 +50,4 @@ def build_model():
     classifier.compile('adam',loss='categorical_crossentropy',metrics=['accuracy'])
     
     return classifier
+
