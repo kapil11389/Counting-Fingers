@@ -28,7 +28,7 @@ The Images are 300\*300 size black and white Images
 
 # Model 
 
-![summary](https://user-images.githubusercontent.com/41421032/90111542-6b064180-dd6c-11ea-95c3-1f7866925eb0.PNG)
+![summary](https://user-images.githubusercontent.com/41421032/90113943-a8b89980-dd6f-11ea-8706-4f28d6597fae.PNG)
 
 # Training the model
 
