@@ -17,6 +17,9 @@ CountingFingers.py : This file contains the code to generate the data and traini
 Result_Demo.py : An application designed using OpenCV to analyse the performance of the model
 
 # Training Data and Test Data
+
+The Images are 300\*300 size black and white Images
+
 ![Figure_1](https://user-images.githubusercontent.com/41421032/90111452-4f9b3680-dd6c-11ea-96f5-4de070e51836.png)
 
 # Reading Data from directory and reult mapping
