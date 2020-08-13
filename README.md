@@ -1,8 +1,6 @@
 # CNN Counting-Fingers
 A CNN deep learning model that counts the number of fingers held up by the hand using Keras , TensorFlow as backend and OpenCV
 
-The Model surpisingly gives correct results on the combination of fingers held never seen by it.
-
 # Requirments
 
 Python 3.5+ , Keras 2+ , Tensorflow 2+, OpenCV 4.3+
@@ -38,3 +36,10 @@ Result_Demo.py : An application designed using OpenCV to analyse the performance
 
 # Model Demo
 ![test](https://user-images.githubusercontent.com/41421032/90112010-131c0a80-dd6d-11ea-8918-3b3ba95dfcd7.png)
+
+# Observations
+1. The model gives accuracy > 90% and many a times beats human vision.
+2. The Model surpisingly gives correct results on the combination of fingers held never seen by it.
+
+I am sure better resluts can be obtained by adding more number of hidden layers and CNN layers and more number of neurons.
+High Quality images can  also be used to enhance the capabilities of the model.
