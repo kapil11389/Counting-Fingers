@@ -15,3 +15,26 @@ CountingFingers.py : This file contains the code to generate the data and traini
 Result_Demo.py : An application designed using OpenCV to analyse the performance of the model
 
 # Training Data and Test Data
+
+![Figure_1](https://user-images.githubusercontent.com/41421032/90111452-4f9b3680-dd6c-11ea-96f5-4de070e51836.png)
+
+# Reading Data from directory and reult mapping
+![im](https://user-images.githubusercontent.com/41421032/90111292-0f3bb880-dd6c-11ea-8dc4-fb6882ff1ac7.PNG)
+![class](https://user-images.githubusercontent.com/41421032/90111921-f2ec4b80-dd6c-11ea-910a-eadd655fbdb9.PNG)
+
+# Model 
+
+![summary](https://user-images.githubusercontent.com/41421032/90111542-6b064180-dd6c-11ea-95c3-1f7866925eb0.PNG)
+
+# Training the model
+
+![training](https://user-images.githubusercontent.com/41421032/90111612-85d8b600-dd6c-11ea-88e7-e9efc3e638d4.PNG)
+
+# Training and Test result Visualization 
+
+![Figure_2](https://user-images.githubusercontent.com/41421032/90111757-ba4c7200-dd6c-11ea-9146-b8a348850b4c.png)
+
+![Figure_1](https://user-images.githubusercontent.com/41421032/90111770-bcaecc00-dd6c-11ea-8151-0a23ee0a8fbb.png)
+
+# Model Demo
+![test](https://user-images.githubusercontent.com/41421032/90112010-131c0a80-dd6d-11ea-8918-3b3ba95dfcd7.png)
