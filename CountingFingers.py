@@ -78,7 +78,5 @@ plt.ylabel('Epoch')
 plt.legend()
 plt.show()
 
-
-
  
 
