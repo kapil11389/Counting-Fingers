@@ -22,7 +22,7 @@ The Images are 300\*300 size black and white Images
 
 ![Figure_1](https://user-images.githubusercontent.com/41421032/90111452-4f9b3680-dd6c-11ea-96f5-4de070e51836.png)
 
-# Reading Data from directory and result mapping
+# Reading Data from directory and class mapping
 ![im](https://user-images.githubusercontent.com/41421032/90111292-0f3bb880-dd6c-11ea-8dc4-fb6882ff1ac7.PNG)
 ![class](https://user-images.githubusercontent.com/41421032/90111921-f2ec4b80-dd6c-11ea-910a-eadd655fbdb9.PNG)
 
