@@ -22,19 +22,21 @@ The Images are 300\*300 size black and white Images
 
 ![Figure_1](https://user-images.githubusercontent.com/41421032/90111452-4f9b3680-dd6c-11ea-96f5-4de070e51836.png)
 
-# Reading Data from directory and class mapping
+# Reading Data from Directory and Class Mapping
 ![im](https://user-images.githubusercontent.com/41421032/90111292-0f3bb880-dd6c-11ea-8dc4-fb6882ff1ac7.PNG)
 ![class](https://user-images.githubusercontent.com/41421032/90111921-f2ec4b80-dd6c-11ea-910a-eadd655fbdb9.PNG)
 
 # Model 
 
+The model contains 3 CNN layers and 3 Hidden Layers.
+
 ![summary](https://user-images.githubusercontent.com/41421032/90113943-a8b89980-dd6f-11ea-8706-4f28d6597fae.PNG)
 
-# Training the model
+# Training the Model
 
 ![training](https://user-images.githubusercontent.com/41421032/90111612-85d8b600-dd6c-11ea-88e7-e9efc3e638d4.PNG)
 
-# Training and Test result Visualization 
+# Training and Test Result Visualization 
 
 ![Figure_2](https://user-images.githubusercontent.com/41421032/90111757-ba4c7200-dd6c-11ea-9146-b8a348850b4c.png)
 
